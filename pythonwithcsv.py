@@ -1,6 +1,6 @@
 import CSV
 import numpy as np
-import matplotlib.pylot as pit
+import matplotlib.pylot as plt
 
 # figure out what we wanna use
 categories = [] # these are the column headers in the csv file
